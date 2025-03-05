@@ -1,6 +1,4 @@
-*.txt
-!requirements.txt
-client_secrets.json
+_private_data/
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
